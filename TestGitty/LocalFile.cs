@@ -9,5 +9,6 @@ namespace TestGitty
     internal class LocalFile
     {
         // develop commit 1
+        // develop commit 2
     }
 }
