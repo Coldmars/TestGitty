@@ -18,6 +18,8 @@ namespace TestGitty
         // develop commit 8
         // develop commit 9
         // develop commit 10
+        // feature commit 4
+        // feature commit 5
         // develop commit 11
     }
 }
